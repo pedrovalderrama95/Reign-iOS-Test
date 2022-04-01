@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - ProgressHUD (13.6)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - Moya (~> 15.0)
+  - ProgressHUD
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - ProgressHUD
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: e04f9b454d38e215178c4af1600c2c418bf53325
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,9 @@
+platform :ios, '15.4'
+
+target 'ReignTest' do
+  use_frameworks!
+pod 'Moya', '~> 15.0'
+pod 'SwiftKeychainWrapper'
+pod 'ProgressHUD'
+end
+
