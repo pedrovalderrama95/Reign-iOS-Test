@@ -11,7 +11,7 @@ https://github.com/jrendel/SwiftKeychainWrapper <br/>
 - Network Layer: <br/>
 https://github.com/Moya/Moya <br/>
 - Installing: <br/> 
-```$ sudo gem install cocoapods```
+```$ sudo gem install cocoapods```<br/> 
 Download repo <br/>
 Place in the root folder of the project via terminal, do 'pod install'<br/>
 Open 'ReignTest.xcworkspace' file<br/>
